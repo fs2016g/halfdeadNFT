@@ -150,7 +150,7 @@ npm install
 npm run dev
 ```
 
-13. Open [http://localhost:3000](http://localhost:3000) with your browser and start using Treat Toolbox!
+13. Open [http://localhost:3000](http://localhost:3000) with your browser and start using Treat Toolbox.
 
 # Working with Treat Toolbox
 
